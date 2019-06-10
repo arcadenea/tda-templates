@@ -1,0 +1,1 @@
+la segunda línea no dibuja los íconos, verificar porqué
